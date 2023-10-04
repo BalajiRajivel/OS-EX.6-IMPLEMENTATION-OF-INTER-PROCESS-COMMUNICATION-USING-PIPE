@@ -44,8 +44,7 @@ return 0;
 
 
 ## OUTPUT:
-![image](https://github.com/jevan-a/OS-EX.6-IMPLEMENTATION-OF-INTER-PROCESS-COMMUNICATION-USING-PIPE/assets/134593017/2a4716b6-ac43-483c-9e94-53a2f3daabfd)
-
+![image](https://github.com/BalajiRajivel/OS-EX.6-IMPLEMENTATION-OF-INTER-PROCESS-COMMUNICATION-USING-PIPE/assets/103949835/f36d3f13-ec9b-4612-82eb-e087df72d153)
 
 
 ## RESULT:
